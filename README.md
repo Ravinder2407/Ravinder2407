@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ravinder Kaushik and I'm working as Asst. Systems Engineer in TCS.
 - 👀 I’m interested in Data Science with Python.
-- 🌱 I have more than 1 year experience in IT as a Data Scientist.
+- 🌱 I have more than 1.5 years experience in IT as a Data Scientist.
 - 📫 How to reach me on +919017248407
 
 <!---
